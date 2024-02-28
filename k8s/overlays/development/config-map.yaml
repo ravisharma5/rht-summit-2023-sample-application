@@ -4,8 +4,9 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
-      "https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_3000.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_3000.jpg",
+      "https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing2048.jpg"
     ]
 kind: ConfigMap
 metadata:
